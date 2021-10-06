@@ -1,0 +1,43 @@
+p {
+    color: #aaaaaa;
+    font-weight: 400;
+    margin: 20px 0;
+    font-size: .9em;
+    line-height: 1.5em;
+}
+
+h1 {
+    color: #dddddd;
+    font-size: 35px;
+    font-weight: 400;
+    margin: 45px 0 10px 0;
+}
+
+.context {
+    padding: 25px 0;
+}
+
+.list_block {
+    padding: 15px 0;
+    margin: 15px 0;
+    box-sizing: content-box;
+}
+
+.list_block ul li {
+    list-style-type: circle;
+}
+
+.list_block img {
+    width: 440px;
+    margin: 15px 0 10px 10px;
+    border-radius: 5px;
+    float: right;
+}
+
+.list_block ul li {
+    color: #aaaaaa;
+    font-weight: 400;
+    margin: 20px 0;
+    font-size: .9em;
+    line-height: 1.5em;
+}
